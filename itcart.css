@@ -1,0 +1,38 @@
+body{
+    background-color: #795548;
+}
+.mt-6 {
+    margin-top: 6rem;
+}
+.footer-color {
+    background-color: beige;
+}
+.left-side-color{
+    background-color: antiquewhite;
+}
+.right-side-color{
+    background-color: rgba(245, 209, 162, 0.73);
+}  
+.left-side-color ul li a{
+    color: black;
+    text-decoration: none;
+}
+.left-side-color ul li a:hover{
+    color: blueviolet;
+    font-size: 17px;
+    text-decoration-line: underline;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.dropdown-item:hover{
+    background-color: rgb(23, 23, 23);
+    color: whitesmoke;
+    border: 1px solid grey;
+}
+.glass-nav {
+    background: rgba(13, 17, 23, 0.75);   /* dark but see-through */
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}

@@ -1,0 +1,23 @@
+.bg-brown {
+    background-color: #795548;
+}
+.card-color {
+    background-color: bisque;
+}
+.card-color:hover{
+    box-shadow: 0 6px 12px 0 black;
+}
+.hover-head .onn-hoverr {
+  display: none;
+}
+
+.hover-head:hover .normal {
+  display: none;
+}
+
+.hover-head:hover .onn-hoverr {
+  display: inline-block;
+}
+.footer-color{
+    background-color: beige;
+}
