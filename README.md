@@ -44,14 +44,6 @@ git clone https://github.com/CodeWithVishal-18/TECH-SY.git
 
 ---
 
-## 📈 Future Improvements
-
-* Add JavaScript for interactivity
-* Improve animations and transitions
-* Make forms functional
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and improve it.
