@@ -44,12 +44,6 @@ git clone https://github.com/CodeWithVishal-18/TECH-SY.git
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repo and improve it.
-
----
-
 ## 🙌 Author
 
 **Vishal Shukla**
